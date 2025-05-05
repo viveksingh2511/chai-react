@@ -11,7 +11,7 @@ const Sidebar = () => {
       <hr />
       <ul className="nav nav-pills flex-column mb-auto">
         <li className="nav-item">
-          <NavLink to="/Dashboard" className="nav-link" end>
+          <NavLink to="/dashboard" className="nav-link" end>
             <i className="bi bi-house-door me-2"></i>
             Dashboard
           </NavLink>
