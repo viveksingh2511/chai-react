@@ -10,4 +10,13 @@
     color: #000;
     font-weight: 500;
   }
+  .progile-detail {
+    height: 200px;
+    width: 200px;
+    background-color: #edf8f8;
+    position: absolute;
+    right: 1%;
+    top: 89%;
+    z-index: 1;
+  }
   

@@ -28,12 +28,6 @@ const Sidebar = () => {
             Add Book
           </NavLink>
         </li>
-        <li>
-          <NavLink to="/users" className="nav-link">
-            <i className="bi bi-people me-2"></i>
-            Users
-          </NavLink>
-        </li>
       </ul>
     </div>
   );
