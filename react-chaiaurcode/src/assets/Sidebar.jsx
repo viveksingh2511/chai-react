@@ -4,7 +4,7 @@ import { NavLink } from 'react-router-dom';
 const Sidebar = () => {
   return (
     <div className="d-flex flex-column flex-shrink-0 p-3 bg-light shadow" style={{ width: '240px', height: '100vh' }}>
-      <a href="/Dashboard" className="d-flex align-items-center mb-3 mb-md-0 me-md-auto link-dark text-decoration-none">
+      <a href="/dashboard" className="d-flex align-items-center mb-3 mb-md-0 me-md-auto link-dark text-decoration-none">
         <i className="bi bi-book fs-3 me-2"></i>
         <span className="fs-5 fw-semibold">Library</span>
       </a>
